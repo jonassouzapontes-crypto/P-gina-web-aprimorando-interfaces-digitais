@@ -82,5 +82,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    console.log('🚀 Site RasinformaticA carregado com sucesso!');
+    console.log('🚀 Site jonas carregado com sucesso!');
 });
